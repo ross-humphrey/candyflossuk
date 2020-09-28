@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on building an amazing team at Validus Risk Management
-- 🌱 I’m currently learning how to build better AWS architectures (for the Solutions Architect Professional exam)
-- 👯 I’m looking to collaborate on anything Python or AWS based!
-- 🤔 I’m looking for help with building great software developmenet teams
-- 💬 Ask me about Python
-- 📫 How to reach me: LinkedIn
-- ⚡ Fun fact: I'm trying to read a book a week for a year!
+- 🔭  I’m currently working on building an amazing team at Validus Risk Management
+- 🌱  I’m currently learning how to build better AWS architectures (for the Solutions Architect Professional exam)
+- 👯  I’m looking to collaborate on anything Python or AWS based!
+- 🤔  I’m looking for help with building great software developmenet teams
+- 💬  Ask me about Python
+- 📫  How to reach me: LinkedIn
+- ⚡  Fun fact: I'm trying to read a book a week for a year!
 
 <!--
 **candyflossuk/candyflossuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
