@@ -5,7 +5,7 @@
 - 👯  I’m looking to collaborate on anything Python or AWS based!
 - 🤔  I’m looking for help with building great software developmenet teams
 - 💬  Ask me about Python
-- 📫  How to reach me: LinkedIn / Email / Phone 
+- 📫  How to reach me: Email / Phone 
 - ⚡  Fun fact: I'm trying to read a book a week for a year!
 
 <!--
