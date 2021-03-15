@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-- 🔭  I’m currently working on building an amazing team at Validus Risk Management - I'm Hiring!
+- 🔭  I’m currently working on building an amazing team at Validus Risk Management - I'm Hiring Front End, Back End, Full Stack and Devops Engineers!
 - 🌱  I’m currently learning how to build better AWS architectures (for the Solutions Architect Professional exam)
 - 👯  I’m looking to collaborate on anything Python or AWS based!
 - 🤔  I’m looking for help with building great software developmenet teams
 - 💬  Ask me about Python and AWS
 - 📫  How to reach me: Email / Phone 
-- ⚡  Hobbies: Guitar, Meditation and Running  
+- ⚡  Hobbies: Guitar and Endurance based fitness
 
 <!--
 **candyflossuk/candyflossuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
