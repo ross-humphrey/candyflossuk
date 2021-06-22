@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭  I’m currently working on building an amazing team at Validus Risk Management - I'm Hiring Front End, Back End, Full Stack and Devops Engineers!
+- 🔭  I’m currently working on building an amazing team at Validus Risk Management - I'm Hiring Front End, Back End, Full Stack Engineers
 - 🌱  I’m currently learning how to build better AWS architectures (for the Solutions Architect Professional exam)
 - 👯  I’m looking to collaborate on anything Python or AWS based!
 - 🤔  I’m looking for help with building great software development teams
